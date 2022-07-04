@@ -54,7 +54,7 @@ Basically mySuperVariable will be initialized with `null`, and then you will be 
 <button onClick={() => mySuperFunction('hello')}></button>
 ```
 
-### Possible uses for </strong>the ` useState` hook</strong>
+### Possible uses for <strong>the ` useState` hook</strong>
 
  1. Counting: Displaying the number of likes on the screen and being able to increase or decrease when the user clicks.
  ![React Counter with Hooks](https://s10.gifyu.com/images/countergif.gif) 
